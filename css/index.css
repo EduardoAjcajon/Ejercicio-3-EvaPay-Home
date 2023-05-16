@@ -1,0 +1,49 @@
+.telefono{
+    margin: auto;
+    
+    max-width: 42.8rem;
+    max-height: 92.6rem;
+    border: 1rem solid black;
+    border-radius: 3rem;
+}
+.login{
+    width: 100%;
+    display: grid;
+    justify-items: center;
+
+    grid-template-columns: 100%;
+    grid-template-rows: 62.4rem 8.3rem 7.5rem 11.5rem;
+}
+.log{
+    width: 15.9rem;
+    height: 9.4rem;
+}
+.logo{
+    margin-top: 14.2rem;
+}
+.sign-in{
+    font-size: 2.3rem;
+    color: white;
+}
+.sign{
+    text-align: center;
+    padding-top: 1.2rem;
+    background-color: black;
+    width: 37.4rem;
+    height: 5.6rem;
+    border-radius: 1.8rem;
+}
+.create-account{
+    font-size: 2.2rem;
+}
+.create{
+    text-align: center;
+    padding-top: 1.2rem;
+    border-radius: 1.8rem;
+    border: 1.5px solid black;
+    width: 37.4rem;
+    height: 5.6rem;
+}
+.need-help{
+    font-size: 2rem;
+}
